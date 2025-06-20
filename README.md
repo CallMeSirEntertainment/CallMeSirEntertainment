@@ -20,3 +20,5 @@ Coding is a highly creative activity. Whether you're designing a website, develo
 
 ## To Improve Career Prospects
 In addition to being a lucrative career choice, coding skills are in high demand across many industries. Even if you don't want to be a full-time developer, having coding skills can open up new opportunities and enhance your career.
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeSirEntertainment)
